@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "this is what falling in love feels like",
+  "base_artist": "JVKE",
+  "createdAt": "2026-02-22T02:11:25.767673Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like",
+      "artist": "Jvke",
+      "has_synced": true,
+      "path": "select/01_this_is_what_falling_in_love_feels_like_Jvke.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/02_this_is_what_falling_in_love_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/03_this_is_what_falling_in_love_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/04_this_is_what_falling_in_love_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/05_this_is_what_falling_in_love_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like",
+      "artist": "Marina Lin",
+      "has_synced": true,
+      "path": "select/06_this_is_what_falling_in_love_feels_like_Marina_Lin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/07_this_is_what_falling_in_love_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like",
+      "artist": "Song, JVKE",
+      "has_synced": true,
+      "path": "select/08_this_is_what_falling_in_love_feels_like_Song,_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "JVKE - this is what falling in love feels like",
+      "artist": "Video • JVKE",
+      "has_synced": true,
+      "path": "select/09_JVKE_-_this_is_what_falling_in_love_feels_like_Video_•_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like (Ramengvrl Remix)",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/10_this_is_what_falling_in_love_feels_like_(Ramengvrl_Remix)_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "jvke - this is what falling in love feels like (slowed + reverb)",
+      "artist": "jessie",
+      "has_synced": true,
+      "path": "select/11_jvke_-_this_is_what_falling_in_love_feels_like_(slowed_+_reverb)_jessie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "JVKE - this is what falling in love feels like (Official Video)",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/12_JVKE_-_this_is_what_falling_in_love_feels_like_(Official_Video)_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like (Leon Leiden Remix)",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/13_this_is_what_falling_in_love_feels_like_(Leon_Leiden_Remix)_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "JVKE - this is what falling in love feels like (Español)",
+      "artist": "iPerol",
+      "has_synced": true,
+      "path": "select/14_JVKE_-_this_is_what_falling_in_love_feels_like_(Español)_iPerol.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like (Leon Leiden Remix)",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/15_this_is_what_falling_in_love_feels_like_(Leon_Leiden_Remix)_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like (Multilingual)",
+      "artist": "Kitsui Akira",
+      "has_synced": false,
+      "path": "select/16_this_is_what_falling_in_love_feels_like_(Multilingual)_Kitsui_Akira.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "this is what falling in love feels like (Leon Leiden Remix)",
+      "artist": "Video • JVKE",
+      "has_synced": true,
+      "path": "select/17_this_is_what_falling_in_love_feels_like_(Leon_Leiden_Remix)_Video_•_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "JVKE - This is What Falling in Love Feels Like [Official Lyric Video]",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/18_JVKE_-_This_is_What_Falling_in_Love_Feels_Like_[Official_Lyric_Video]_JVKE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "this is what falling in love feels like",
+      "artist": "JVKE",
+      "has_synced": false,
+      "path": "select/pl_01_this_is_what_falling_in_love_feels_like_JVKE.txt"
+    }
+  ]
+}
